@@ -6,17 +6,18 @@ import compass_icon from "./compass.png"
 import gallery_icon from "./gallery_icon.png"
 import gallery_icon2 from "./gallery_icon2.png"
 import gemini_icon from "./gemini.jpg"
-import john_icon from "./john.png"
-import message_icon from "./message.png"
+import john_icon from "./john.jpg"
+import message_icon from "./message.jpg"
 import mic_icon from "./mic_icon.jpg"
-import plus_icon from "./plus"
+import plus_icon from "./plus.jpg"
 import Quetions_icon from "./Question.png"
 import send_icon from "./send_icon.png"
 import youtube_icon from "./youtube_icon.png"
+import setting from "./settings.png"
 
 
 
-export const assests = {
+export const assets = {
     history,
     menu_icon,
     bulb_icon,
@@ -32,4 +33,5 @@ export const assests = {
     Quetions_icon,
     send_icon,
     youtube_icon,
+    setting
 }
